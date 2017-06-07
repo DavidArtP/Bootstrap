@@ -1,18 +1,22 @@
 .columna_1{
-    background: coral
+    background: coral;
 }
 .columna_2{
-    background: blue
+    background: blue;
 }
 .columna_3{
-    background: yellow
+    background: yellow;
 }
 .columna_7{
-    background: black
+    background: black;
 }
 .columna_4{
-    background: rebeccapurple
+    background: rebeccapurple;
 }
 .columna_5{
-    background: red
+    background: red;
+}
+.img-navbar{
+    width: 80px;
+    height: 80px;
 }
